@@ -1,3 +1,15 @@
+## Twitter-clone 🚀 🚀 🚀
+Live Demo 👉 https://twitter-clone-212c4.web.app/
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI</li>
+  </ul>
+</details>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
