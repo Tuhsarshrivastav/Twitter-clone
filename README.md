@@ -1,6 +1,9 @@
 ## Twitter-clone 🚀 🚀 🚀
 Live Demo 👉 https://twitter-clone-212c4.web.app/
 
+![Fotoram io(1)](https://user-images.githubusercontent.com/74534919/106376534-363e8300-63bc-11eb-94da-fbdef8afce62.jpg)
+
+
 <details open="open">
   <summary>Tools/Packages</summary>
   <ul><li>React.Js</li>
