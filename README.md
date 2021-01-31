@@ -1,9 +1,6 @@
 ## Twitter-clone 🚀 🚀 🚀
 Live Demo 👉 https://twitter-clone-212c4.web.app/
 
-
-<img src=' https://lh3.googleusercontent.com/Orhk2NMdIo3TWiP6BrYuIs-mewT8q0zWhffcQkYekuYdaacvsTLQFiQIUANVKwJWW_g3nxn6xQWsioJ7w_ee6pnY0wYJlShq1yxVJ5AnmOB0VJOIyMtLi8OnVtcKL0u13JM0LiZgck8W4akjk7GrHd10HYwYOX4YbhkVWr3JUuIsHL8H_d2n89hO3uAak3soARZr93HXUmmkDt24dqHxPXv9yHDBvj6PTFsuFycj7QO5EXJVlysHA6Wz42C4s-LtENj86HZklZ1AlWGsKYT0GXPfJ11vNF6BEAEuNXCju-YNTZACWCBkERcgcBuGwI459EhnfUzVM68x1A8PpLXKFMizfPd9sOQ_Oltq3Sr6cN3nOku8w_a4rUj_AZYUYulyXd_xgDBeNJ_ERc2nMo8xNkODpLfoSmI7xRZxh0swHEomD-Lpv2o4YT9Jx7Y433SbD53m_2OD9j8UG9WVVdlzbbVDVU4aKgQbt2zYzIOQi0pKWTYknsADDPXqPhQVRvt_2Q6EkjX6mDGvhQ9EdVPa-EE6wRS8bWV4PB-LVfCchQQJdlWZEm9M7eC-gFBxXVzS6k6w988djzU9OYz0_ZL36ERyFrj7EopWJu1tCE7N39cu_QLqiWIeMV-lNrCPpwHYLpGqtWvKcKbyyLF6gLFMziJoAEqps0l05iZHG8juR1ozdnTxDOVxKCcjlWHP=w376-h667-no?authuser=0'
-
 <details open="open">
   <summary>Tools/Packages</summary>
   <ul><li>React.Js</li>
